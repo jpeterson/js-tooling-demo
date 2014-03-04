@@ -1,0 +1,24 @@
+{
+  "name": "js-tools-demo",
+  "version": "0.0.0",
+  "description": "js-tools-demo\r =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jpeterson@github.com/jpeterson/js-tools-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpeterson/js-tools-demo/issues"
+  },
+  "homepage": "https://github.com/jpeterson/js-tools-demo",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-gh-pages": "~0.9.1",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
